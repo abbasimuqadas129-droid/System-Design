@@ -201,6 +201,8 @@ Contributions are welcome!
 4. Submit a pull request
 
 ---
+<img width="200" height="200" alt="QR code" src="https://github.com/user-attachments/assets/f92bfedc-69c6-49c3-9115-1cc4639ace5f" />
+
 
 
 
