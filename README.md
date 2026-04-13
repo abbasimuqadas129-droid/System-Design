@@ -1,4 +1,3 @@
-Here’s a **professional GitHub README.md** based on your SRS. You can copy-paste this directly into your repo.
 
 ---
 
@@ -203,18 +202,7 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
 
-This project is for educational purposes and can be modified or reused.
 
----
-
-If you want, I can also:
-
-* create **GitHub repo structure (folders + files)**
-* generate **backend + frontend starter code**
-* or make a **professional UI preview for README**
-
-Just tell me 👍
 
 
